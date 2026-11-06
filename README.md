@@ -8,6 +8,10 @@ A reactive, lightweight shopping list manager built with Flutter and backed by F
 
 ---
 
+
+https://github.com/user-attachments/assets/c58f88f6-79d9-4162-b491-6714f6c70a79
+
+
 ## Overview
 
 Shopping List is a mobile application built to demonstrate clean asynchronous state handling, form validation, and cloud persistence in Flutter without heavy client SDKs. It interfaces directly with Firebase Realtime Database using standard HTTP operations (`GET`, `POST`, `DELETE`), pairing immediate user feedback via optimistic UI updates with automatic server rollback on failure.
